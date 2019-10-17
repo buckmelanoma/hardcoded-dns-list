@@ -1,6 +1,6 @@
 App or Device,DNS used,Notes
-Amazon Alexa,Cloudflare DNS
-Google Android Private DNS,Google DNS
-Google Chromecast,Google DNS
-Google Home,Google DNS
+Amazon Alexa,Cloudflare DNS,
+Google Android Private DNS,Google DNS,
+Google Chromecast,Google DNS,
+Google Home,Google DNS,
 PyCharm macOS,Cloudflare DNS/Google DNS,Likely others. Found using Little Snitch.
