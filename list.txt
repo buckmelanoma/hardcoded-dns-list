@@ -1,0 +1,3 @@
+# This is a list of applications and devices known to contain hard-coded DNS servers
+
+PyCharm for macOS - Tries to connect to 1.1.1.1, 1.0.0.1, 8.8.8.8 and many others.  Found using Little Snitch.
