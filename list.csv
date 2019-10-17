@@ -5,5 +5,6 @@ Google Chromecast,Google DNS,
 Google Home,Google DNS,
 PyCharm macOS,Cloudflare DNS/Google DNS,Likely others. Found using Little Snitch.
 Roku,Google DNS,Found by poisining ARP cache of Roku Player & Wireshark.
+Vizo TVs,Google DNS,Ignores DHCP provided DNS server.
 WeMo Insight,Cloudflare DNS,Also runs it's own DNS server.
 Zmodo,202.96.134.133,Device has the option to set custom DNS but change switch back on it's own.
