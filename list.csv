@@ -1,0 +1,7 @@
+# This is a list of applications and devices known to contain hard-coded DNS servers
+App/Device,DNS used,Notes
+Amazon Alexa,Cloudflare DNS
+Google Android Private DNS,Google DNS
+Google Chromecast,Google DNS
+Google Home,Google DNS
+PyCharm macOS,Cloudflare DNS/Google DNS,Likely others. Found using Little Snitch.

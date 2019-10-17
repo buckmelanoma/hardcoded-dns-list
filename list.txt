@@ -1,7 +1,0 @@
-# This is a list of applications and devices known to contain hard-coded DNS servers
-
-Amazon Alexa - Tries to use Cloudflare DNS (i.e 1.1.1.1)
-Google Android Private DNS - Tries to use Google DNS - (i.e 8.8.8.8)
-Google Chromecast - Tries to use Google DNS - (i.e 8.8.8.8)
-Google Home - Tries to use Google DNS - (i.e 8.8.8.8)
-PyCharm for macOS - Tries to connect to Cloudflare DNS, Google DNS and many others.  Found using Little Snitch.
