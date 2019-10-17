@@ -1,4 +1,4 @@
-App/Device,DNS used,Notes
+App or Device,DNS used,Notes
 Amazon Alexa,Cloudflare DNS
 Google Android Private DNS,Google DNS
 Google Chromecast,Google DNS
