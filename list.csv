@@ -1,5 +1,5 @@
 App or Device,DNS used,Notes
-Apple iOS,Apple DNS,apple-dns.net, also tries to use it's own NTP servers.
+Apple iOS,Apple DNS,apple-dns.net. Also tries to use it's own NTP servers.
 Amazon Alexa,Cloudflare DNS,
 Google Android Private DNS,Google DNS,
 Google Chromecast,Google DNS,
