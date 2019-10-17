@@ -1,4 +1,5 @@
 App or Device,DNS used,Notes
+Apple iOS,Apple DNS,apple-dns.net
 Amazon Alexa,Cloudflare DNS,
 Google Android Private DNS,Google DNS,
 Google Chromecast,Google DNS,
