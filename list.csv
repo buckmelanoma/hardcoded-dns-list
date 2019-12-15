@@ -4,6 +4,7 @@ Amazon Alexa,Cloudflare DNS,
 Google Android Private DNS,Google DNS,
 Google Chromecast,Google DNS,
 Google Home,Google DNS,
+Philips Hue bridge,Cloudflare DNS,
 PyCharm macOS,Cloudflare DNS/Google DNS,Likely others. Found using Little Snitch.
 Roku,Google DNS,Found by poisining ARP cache of Roku Player & Wireshark.
 Vizo TVs,Google DNS,Ignores DHCP provided DNS server.
